@@ -1,0 +1,11 @@
+src
+src/base
+src/emu
+src/emu/controllers
+src/filefmt
+src/logging
+src/streams
+src/emu/tools
+src/emu/debug
+src/emu/TODO
+src/emu/audio
